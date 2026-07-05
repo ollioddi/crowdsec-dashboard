@@ -1,6 +1,6 @@
 # CrowdSec Dashboard
-
-> **Beta software**: expect rough edges and possibly breaking changes. Feature requests and bug reports are welcome.
+> [!IMPORTANT]
+> This project is in beta. Im planning on overhauling the entire frontend & table experience after the summer, when i'll have significantly more time available. The project is still active :-)
 
 A self-hosted local web dashboard for viewing and managing decisions made by your [CrowdSec](https://crowdsec.net) instance. Built for homelab use - no enterprise account or cloud connectivity required.
 
